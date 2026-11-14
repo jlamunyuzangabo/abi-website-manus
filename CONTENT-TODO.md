@@ -8,8 +8,9 @@ Every square-bracket placeholder currently visible on the site is listed below.
 - [ ] [Photo: mentoring session (to be supplied)]
 - [ ] [Photo: career workshop (to be supplied)]
 - [ ] [Photo: organization workshop (to be supplied)]
-- [ ] [to be confirmed] — website address
-- [ ] [to be confirmed] — social media links
+- [ ] [to be confirmed] - website address
+- [ ] [to be confirmed] - social media links
+- [ ] [Draft]
 - [ ] [Draft wording, to be confirmed]
 - [ ] [Draft wording, to be confirmed. This programme's content has not yet been supplied by the client.]
 - [ ] Supply the final Open Graph share image after the website address is known.
